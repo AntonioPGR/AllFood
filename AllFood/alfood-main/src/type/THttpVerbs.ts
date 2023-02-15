@@ -1,0 +1,1 @@
+export type tHttpVerbs = 'POST'|'GET'|'PUT'|'DELETE'|'PATCH'

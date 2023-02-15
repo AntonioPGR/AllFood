@@ -1,0 +1,1 @@
+export type tErrorHandler = (errorMsg:string) => void
